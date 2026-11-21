@@ -3,6 +3,8 @@
 A client app (a front-end) for Stable Horde / hAIdra, implemented in **Python 3.10.0** with GUI in PyQt6, created with help of LLM models (Gemini 3.1 and GLM 5.3).
 It is designed to work with three latest models: Anima Turbo/Krea 2 Turbo/Moss SFT. (The app was made solely for my personal purposes, sorry if something is missing)
 
+<a href="https://ibb.co/60Ygg4Nw"><img src="https://i.ibb.co/hFsDDKC9/hl.jpg" alt="hl" border="0"></a>
+
 - The app is implemented as a single-file .py (easier to update with an LLM that way). The size is 1.15 MB size (the code is properly optimized to prevent the issues by file size).
 - It is portable but requires two subfolders (./data, ./output, will be created next to the .py file on the first startup).
 - It is safe to run: only modifying/deleting files in its work folder (the subfolders specifically).
