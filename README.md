@@ -1,6 +1,6 @@
 
 
-A client app (a front-end) for Stable Horde / hAIdra, implemented in **Python 3.10.0** with GUI in PyQt6, created with help of LLM models (Gemini 3.1 and GLM 5.3).
+**Horde Studio Lite** is a client app (front-end) for Stable Horde / hAIdra, implemented in **Python 3.10.0** with GUI in PyQt6, created with help of LLM models (Gemini 3.1 and GLM 5.3).
 It is designed to work with three latest models: Anima Turbo/Krea 2 Turbo/Moss SFT. (The app was made solely for my personal purposes, sorry if something is missing)
 
 - The app is implemented as a single-file .py (easier to update with an LLM that way). The size is 1.14 MB size (the code is properly optimized to prevent the issues by file size).
@@ -28,6 +28,8 @@ By default, the generated images will be stored in ./output/temp with the respec
 
 Feel free to modify or fork the app, publish it as **freeware** in Google Play etc.
 
-You can support the author by sending Horde Kudos for 
+✨You can support the author of this published code, by sending Horde Kudos for:
+
+XinXin#529157
 
 
